@@ -1,6 +1,8 @@
 # dwm
 my fork of dwm
 
+*optional dmenu patched with line height in my repository*
+
 ![Image](https://i.imgur.com/Kb2N38q.png)
 
 > included patches
